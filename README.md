@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Farukh 👋
 
-<!--
-**Farukhmk/Farukhmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ECE Student | Aspiring VLSI Engineer**
 
-Here are some ideas to get you started:
+I’m interested in **RTL Design, Verification, Digital Design, and RISC-V processors**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- **HDL:** Verilog, SystemVerilog
+- **Programming:** C++, Python
+- **Tools:** Vivado, ModelSim, Icarus Verilog
+- **Hardware:** FPGA, RISC-V
+
+### 🚀 Current Focus
+- Building and verifying a **32-bit RISC-V processor**
+- Learning **RTL Design & Functional Verification**
+- Developing practical **VLSI/FPGA projects**
+
+### 🔗 Connect
+[LinkedIn](https://www.linkedin.com/in/farukh-kundagol-b5a2683a7/)
